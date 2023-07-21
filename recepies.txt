@@ -1,0 +1,55 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="utf-8">
+        <title>Get Started</title>
+        <!-- Google Fonts -->
+      <link href="https://fonts.googleapis.com/css?family=Mr+De+Haviland|Neuton|Pacifico" rel="stylesheet">
+        <!-- CSS -->
+        <link href="recepies.css" type="text/css"  rel="stylesheet">
+    </head>
+    
+    <body>
+	<div id="nav">
+            <ul>
+                <li><a href="#">Home</a></li>
+                <li><a href="#">About us</a></li>
+                <li><a href="#">Members</a></li>
+            </ul>
+       </div>
+    <br>
+    <br>
+    <div id="first">
+        <img src="Creamy%20Pinoy%20Fried%20Rice.png"/><img id="img2" src="banner.png"><img id="img3" src="serve.jpg"> <p id="p3">Preparation:</p>
+        <br>
+        <p id="p4">1. Heat butter in a heavy saucepan. Add the longganisa and cook until<br>
+        &nbsp;&nbsp;&nbsp;&nbsp;slightly brown. Add onions and garlic. Sauté until it begins to soften. Do<br>
+        &nbsp;&nbsp;&nbsp;&nbsp;not brown. Add pineapple. Then add stock or water. Season with salt and <br>
+        &nbsp;&nbsp;&nbsp;&nbsp;pepper. Simmer for 2 minutes.<br><br>
+        2. Add NESTLÉ All Purpose Cream. Stir and simmer again for 3 minutes.<br><br>
+        3. Add the rice. Stir over low heat until the rice is completely coated. Simmer<br>
+        &nbsp;&nbsp;&nbsp;&nbsp;for a minute. Taste and adjust seasoning; cover pan tightly with foil.<br><br>
+        4. Add the bell peppers and green peas just before the liquid is absorbed.<br>
+        &nbsp;&nbsp;&nbsp;&nbsp;Then cover again until the rice is thoroughly cooked.<br><br>
+        5.Top with sliced salted egg and garnish with spring onions.</p>
+        <p id="p5">Servings 6-8<br>
+        Preparation Time 45 minutes</p>
+        <p id="p6">CREAMY PINOY FRIED RICE</p>
+    </div>
+    <div id="second">
+        <p id="p1">Ingredients:</p>
+        <br>
+        <p id="p2">2 Tbsp     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;butter</p>
+        <p id="p2">8 pcs      &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;halved longganisa</p>
+        <p id="p2">¼ cup      &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;minced onions</p>
+        <p id="p2">1 Tbsp     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;minced garlic</p>
+        <p id="p2">1 ½ cup    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;water or stock</p>
+        <p id="p2">¾ cup      &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;pineapple tidbits salt and pepper to taste</p>
+        <p id="p2">1 pack     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;NESTLÉ All Purpose Cream 250ml</p>
+        <p id="p2">3 cups     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;cooked rice</p>
+        <p id="p2">⅔ cups     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;cubed red bell peppers</p>
+        <p id="p2">⅔ cup      &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;green peas</p>
+        <p id="p2">2 pcs      &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;salted egg</p>
+        <p id="p2">2 Tbsp     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;chopped spring onions</p>
+    </div>
+    

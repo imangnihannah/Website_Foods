@@ -1,0 +1,471 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+html, body{
+    height: 100%;
+}
+body{
+    background: url(intro.jpg) no-repeat center center;
+    display: flex;
+    background-size: cover;
+    flex-direction: column;
+    background-attachment:fixed;
+}
+
+
+ul{
+		margin-right: 5px; padding:0px;
+		background-color:black;
+}
+ul li a{
+	text-decoration:none;
+	color:white;
+	display:block;
+	width: 145px;
+	height:	55px;
+	line-height: 20px;
+	background-color:#000033;
+	opacity:.7;
+	font-family: Century Gothic;
+    font-weight: bold;
+    font-size: 20px;
+}
+ul li{
+	font-family: Century Gothic;
+    font-weight: bold;
+    font-size: 20px;
+	float:left;
+	width:160px;
+	height:55px;
+	line-height:50px;
+	text-align:center;
+	opacity:.8;
+
+}
+ul li a:hover{
+	opacity:.6;
+	color:blue;
+	font-family: Century Gothic;
+	font-size: 20px;
+	width:155px;
+	height:55px;
+	background-color: lime;
+	line-height:50px;
+	text-align:center;
+	transition: all ease-in-out 0.1s;
+}
+ul li ul li {
+	display:none;
+	text-align:center;
+	background-color: #669900;
+	transition: all ease-in-out 0.1s;
+}
+ul li:hover ul li{
+	text-align:center;
+	display:block;
+	transition: all ease-in-out 0.1s;
+}
+
+
+
+
+
+
+
+#container1{
+	width:400px;
+	height:250px;
+	margin-left:40px;
+	margin-top:100px;
+	float:left;
+    position: absolute;
+}
+#container1 img{
+	width:100%;
+	height:100%;
+}
+#container1:hover{
+	box-shadow: 10px 10px 1px 1px hsla(0, 1%, 5%, 0.7);
+	transition: all ease-in-out 0.45s;
+}
+#container2{
+	width:400px;
+	height:250px;
+	margin-left:565px;
+	margin-top:100px;
+	float:left;
+    position: absolute;
+}
+#container2 img{
+	width:100%;
+	height:100%;
+}
+#container2:hover{
+	box-shadow: 10px 10px 1px 1px hsla(0, 1%, 5%, 0.7);
+	transition: all ease-in-out 0.45s;
+}
+#container3{
+	width:400px;
+	height:250px;
+	margin-left:1090px;
+	margin-top:100px;
+	float:left;
+    position: absolute;
+}
+#container3 img{
+	width:100%;
+	height:100%;
+}
+#container3:hover{
+	box-shadow: 10px 10px 1px 1px hsla(0, 1%, 5%, 0.7);
+	transition: all ease-in-out 0.45s;
+}
+#banner1 img{
+    position: absolute;
+    width: 480px;
+    margin-top: 290px;
+}
+#banner1 p{
+    position: absolute;
+    font-family: Century Gothic;
+    font-weight: bold;
+    color: aliceblue;
+    font-size: 20px;
+    margin-top: 325px;
+    margin-left: 120px;
+}
+#banner2 img{
+    position: absolute;
+    width: 480px;
+    margin-top: 290px;
+    margin-left: 530px;
+}
+#banner2 p{
+    position: absolute;
+    font-family: Century Gothic;
+    font-weight: bold;
+    color: aliceblue;
+    font-size: 20px;
+    margin-top: 325px;
+    margin-left: 680px;
+}
+#banner3 img{
+    position: absolute;
+    width: 480px;
+    margin-top: 290px;
+    margin-left: 1055px;
+}
+#banner3 p{
+    position: absolute;
+    font-family: Century Gothic;
+    font-weight: bold;
+    color: aliceblue;
+    font-size: 20px;
+    margin-top: 325px;
+    margin-left: 1220px; 
+}
+
+
+
+
+
+
+
+
+
+
+
+
+#container4{
+	width:400px;
+	height:250px;
+	margin-left:40px;
+	margin-top:500px;
+	float:left;
+    position: absolute;
+}
+#container4 img{
+	width:100%;
+	height:100%;
+}
+#container4:hover{
+	box-shadow: 10px 10px 1px 1px hsla(0, 1%, 5%, 0.7);
+	transition: all ease-in-out 0.45s;
+}
+#container5{
+	width:400px;
+	height:250px;
+	margin-left:565px;
+	margin-top:500px;
+	float:left;
+    position: absolute;
+}
+#container5 img{
+	width:100%;
+	height:100%;
+}
+#container5:hover{
+	box-shadow: 10px 10px 1px 1px hsla(0, 1%, 5%, 0.7);
+	transition: all ease-in-out 0.45s;
+}
+#container6{
+	width:400px;
+	height:250px;
+	margin-left:1090px;
+	margin-top:500px;
+	float:left;
+    position: absolute;
+}
+#container6 img{
+	width:100%;
+	height:100%;
+}
+#container6:hover{
+	box-shadow: 10px 10px 1px 1px hsla(0, 1%, 5%, 0.7);
+	transition: all ease-in-out 0.45s;
+}
+#banner4 img{
+    position: absolute;
+    width: 480px;
+    margin-top: 690px;
+}
+#banner4 p{
+    position: absolute;
+    font-family: Century Gothic;
+    font-weight: bold;
+    color: aliceblue;
+    font-size: 20px;
+    margin-top: 725px;
+    margin-left: 90px;
+}
+#banner5 img{
+    position: absolute;
+    width: 480px;
+    margin-top: 690px;
+    margin-left: 530px;
+}
+#banner5 p{
+    position: absolute;
+    font-family: Century Gothic;
+    font-weight: bold;
+    color: aliceblue;
+    font-size: 20px;
+    margin-top: 725px;
+    margin-left: 620px;
+}
+#banner6 img{
+    position: absolute;
+    width: 480px;
+    margin-top: 690px;
+    margin-left: 1055px;
+}
+#banner6 p{
+    position: absolute;
+    font-family: Century Gothic;
+    font-weight: bold;
+    color: aliceblue;
+    font-size: 20px;
+    margin-top: 725px;
+    margin-left: 1210px;
+}
+
+
+
+
+
+
+#container7{
+	width:400px;
+	height:250px;
+	margin-left:40px;
+	margin-top:900px;
+	float:left;
+    position: absolute;
+}
+#container7 img{
+	width:100%;
+	height:100%;
+}
+#container7:hover{
+	box-shadow: 10px 10px 1px 1px hsla(0, 1%, 5%, 0.7);
+	transition: all ease-in-out 0.45s;
+}
+#container8{
+	width:400px;
+	height:250px;
+	margin-left:565px;
+	margin-top:900px;
+	float:left;
+    position: absolute;
+}
+#container8 img{
+	width:100%;
+	height:100%;
+}
+#container8:hover{
+	box-shadow: 10px 10px 1px 1px hsla(0, 1%, 5%, 0.7);
+	transition: all ease-in-out 0.45s;
+}
+#container9{
+	width:400px;
+	height:250px;
+	margin-left:1090px;
+	margin-top:900px;
+	float:left;
+    position: absolute;
+}
+#container9 img{
+	width:100%;
+	height:100%;
+}
+#container9:hover{
+	box-shadow: 10px 10px 1px 1px hsla(0, 1%, 5%, 0.7);
+	transition: all ease-in-out 0.45s;
+}
+#banner7 img{
+    position: absolute;
+    width: 480px;
+    margin-top: 1090px;
+}
+#banner7 p{
+    position: absolute;
+    font-family: Century Gothic;
+    font-weight: bold;
+    color: aliceblue;
+    font-size: 20px;
+    margin-top: 1125px;
+    margin-left: 160px;
+}
+#banner8 img{
+    position: absolute;
+    width: 480px;
+    margin-top: 1090px;
+    margin-left: 530px;
+}
+#banner8 p{
+    position: absolute;
+    font-family: Century Gothic;
+    font-weight: bold;
+    color: aliceblue;
+    font-size: 20px;
+    margin-top: 1125px;
+    margin-left: 665px;
+}
+#banner9 img{
+    position: absolute;
+    width: 480px;
+    margin-top: 1090px;
+    margin-left: 1055px;
+}
+#banner9 p{
+    position: absolute;
+    font-family: Century Gothic;
+    font-weight: bold;
+    color: aliceblue;
+    font-size: 20px;
+    margin-top: 1125px;
+    margin-left: 1220px;
+}
+
+
+
+
+
+
+
+
+#container10{
+	width:400px;
+	height:250px;
+	margin-left:40px;
+	margin-top:900px;
+	float:left;
+    position: absolute;
+}
+#container10 img{
+	width:100%;
+	height:100%;
+}
+#container10:hover{
+	box-shadow: 10px 10px 1px 1px hsla(0, 1%, 5%, 0.7);
+	transition: all ease-in-out 0.45s;
+}
+#container11{
+	width:400px;
+	height:250px;
+	margin-left:565px;
+	margin-top:900px;
+	float:left;
+    position: absolute;
+}
+#container11 img{
+	width:100%;
+	height:100%;
+}
+#container11:hover{
+	box-shadow: 10px 10px 1px 1px hsla(0, 1%, 5%, 0.7);
+	transition: all ease-in-out 0.45s;
+}
+#container12{
+	width:400px;
+	height:250px;
+	margin-left:1090px;
+	margin-top:900px;
+	float:left;
+    position: absolute;
+}
+#container12 img{
+	width:100%;
+	height:100%;
+}
+#container12:hover{
+	box-shadow: 10px 10px 1px 1px hsla(0, 1%, 5%, 0.7);
+	transition: all ease-in-out 0.45s;
+}
+#banner10 img{
+    position: absolute;
+    width: 480px;
+    margin-top: 1090px;
+}
+#banner10 p{
+    position: absolute;
+    font-family: Century Gothic;
+    font-weight: bold;
+    color: aliceblue;
+    font-size: 20px;
+    margin-top: 1125px;
+    margin-left: 160px;
+}
+#banner11 img{
+    position: absolute;
+    width: 480px;
+    margin-top: 1090px;
+    margin-left: 530px;
+}
+#banner11 p{
+    position: absolute;
+    font-family: Century Gothic;
+    font-weight: bold;
+    color: aliceblue;
+    font-size: 20px;
+    margin-top: 1125px;
+    margin-left: 665px;
+}
+#banner12 img{
+    position: absolute;
+    width: 480px;
+    margin-top: 1090px;
+    margin-left: 1055px;
+}
+#banner12 p{
+    position: absolute;
+    font-family: Century Gothic;
+    font-weight: bold;
+    color: aliceblue;
+    font-size: 20px;
+    margin-top: 1125px;
+    margin-left: 1220px;
+}
+
+

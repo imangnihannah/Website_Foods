@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="utf-8">
+        <title>Get Started</title>
+        <!-- Google Fonts -->
+      <link href="https://fonts.googleapis.com/css?family=Mr+De+Haviland|Neuton|Pacifico" rel="stylesheet">
+        <!-- CSS -->
+        <link href="intrance.css" type="text/css"  rel="stylesheet">
+    </head>
+    
+    <body>
+	<div id="nav">
+            <ul>
+                <li><a href="#">Home</a></li>
+                <li><a href="#">About us</a></li>
+                <li><a href="#">Members</a></li>
+            </ul>
+       </div>
+<div id="text">
+	<h1 id="Neon">Performance Task #1</h1>
+</div>
+<div id="text">
+	<h1 id="Neon">Performance Task #2</h1>
+</div>
+<div id="text">
+	<h1 id="Neon">Performance Task #3</h1>
+</div>
+<div id="container">
+	<a href="Application Design.html"><img src="Performance Task1.jpg"/></a>
+</div>
+<div id="container">
+	<a href="Final Term.html"><img src="Performance Task2.jpg"/></a>
+</div>
+<div id="container">
+	<a href="QuizDesign.html"><img src="Performance Task3.jpg"/></a>
+</div>
+
+
+
+</body>
+</html>	

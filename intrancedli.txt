@@ -1,0 +1,119 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="utf-8">
+        <title>Food Recipes</title>
+        <!-- Google Fonts -->
+      <link href="https://fonts.googleapis.com/css?family=Mr+De+Haviland|Neuton|Pacifico" rel="stylesheet">
+        <!-- CSS -->
+        <link href="intrance.css" type="text/css"  rel="stylesheet">
+    </head>
+    
+    <body>
+	<div id="nav"><div class="dropdown" style="float:right;">
+            <ul>
+                <li><a href="welcom.html">Welcome</a></li>
+                <li><a href="#">About us</a></li>
+				 <li><a href="#">Members</a>
+				<ul>
+					<li><a href="#">Lagumbay John Richie</a></li>
+					<li><a href="#">Haron Haninah</a></li>
+					<li><a href="#">Angni Hannah</a></li>
+					<li><a href="#">Ancog Lea Mae</a></li>
+					<li><a href="#">Solatorio Irene Fe</a></li>
+					<li><a href="#">Sagayon Emily Jane</a></li>
+					<li><a href="#">Marfa Melcky Joy</a></li>
+					<li><a href="#">Abdullah Mohammad</a></li>
+					<li><a href="#">Ismael Abdella</a></li>
+					<li><a href="#">Nasef Farhan</a></li>
+				</ul>
+            </ul>
+       </div>
+<div id="container1">
+    <a href="recepies.html"><img src="Creamy%20Pinoy%20Frie.png"/></a>
+</div>
+<div id="container2">
+    <a href="Adobong%20liempo.html"><img src="Adobong%20Liempo.jpg"/></a>
+</div>
+<div id="container3">
+    <a href="Beef%20Belly%20Pot%20Roast.html"><img src="Beef%20Belly%20Pot%20Roast.jpg"/></a>
+</div>
+        
+        
+<div id="banner1">
+    <a href="recepies.html"><img src="banner.png"/><p>Creamy Pinoy Frie Rice</p></a>
+</div>
+<div id="banner2">
+    <a href="Adobong%20liempo.html"><img src="banner.png"/><p>Adobong Liempo</p></a>
+</div>
+<div id="banner3">
+    <a href="Beef%20Belly%20Pot%20Roast.html"><img src="banner.png"/><p>Belly Pot Roast</p></a>
+</div>
+        
+        
+<div id="container4">
+    <a href="Chicken%20Balls%20In%20Tomato%20Sauce.html"><img src="Chicken%20Balls%20In%20Tomato%20Sauce.jpg"/></a>
+</div>
+<div id="container5">
+    <a href="Chicken%20Inasal%20With%20Pineapple.html"><img src="Chicken%20Inasal%20With%20Pineapple.jpg"/></a>
+</div>
+<div id="container6">
+    <a href="Chicken%20Pochero.html"><img src="Chicken%20Pochero.jpg"/></a>
+</div>
+        
+        
+<div id="banner4">
+    <a href="recepies.html"><img src="banner.png"/><p>Chicken Balls In tomato Sauce</p></a>
+</div>
+<div id="banner5">
+    <a href="Chicken%20Inasal%20With%20Pineapple.html"><img src="banner.png"/><p>Chicken Inasal With Pineapple</p></a>
+</div>
+<div id="banner6">
+    <a href="Chicken%20Pochero.html"><img src="banner.png"/><p>Chicken Pochero</p></a>
+</div>
+        
+
+<div id="container7">
+    <a href="Chicken%20Sisig.html"><img src="chicken%20sisig.jpg"/></a>
+</div>
+<div id="container8">
+    <a href="Citrus%20Pine%20Mechado.html"><img src="Citrus%20Pine%20Mechado.jpg"/></a>  
+</div>
+<div id="container9">
+    <a href="Classic%20Callos.html"><img src="Classic%20Callos.jpg"/></a>  
+</div>
+        
+
+<div id="banner7">
+    <a href="Chicken%20Sisig.html"><img src="banner.png"><p>Chicken Sisig</p></a>
+</div>
+<div id="banner8">
+    <a href="Citrus%20Pine%20Mechado.html"><img src="banner.png"><p>Citrus Pine Mechado</p></a>
+</div>
+<div id="banner9">
+    <a href="Classic%20Callos.html"><img src="banner.png"><p>Classic Callos</p></a>
+</div>
+ 
+
+<div id="banner10">
+    <a href="Chicken%20Sisig.html"><img src="banner.png"><p>Chicken Sisig</p></a>
+</div>
+<div id="banner11">
+    <a href="Citrus%20Pine%20Mechado.html"><img src="banner.png"><p>Citrus Pine Mechado</p></a>
+</div>
+<div id="banner12">
+    <a href="Classic%20Callos.html"><img src="banner.png"><p>Classic Callos</p></a>
+</div> 
+
+
+<div id="banner10">
+    <a href="Chicken%20Sisig.html"><img src="banner.png"><p>Chicken Sisig</p></a>
+</div>
+<div id="banner11">
+    <a href="Citrus%20Pine%20Mechado.html"><img src="banner.png"><p>Citrus Pine Mechado</p></a>
+</div>
+<div id="banner12">
+    <a href="Classic%20Callos.html"><img src="banner.png"><p>Classic Callos</p></a>
+</div>
+</body>
+</html>	
